@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Vim
+*.swp
+
+# Miscellaneous
+draft/
+localdevicenotes.txt
+scratchpad.txt
+tempnotes.md
