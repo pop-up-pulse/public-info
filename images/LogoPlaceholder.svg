@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Key Logo Placeholder.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1267"
+     inkscape:window-height="728"
+     inkscape:window-x="83"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:38.1px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif Bold';stroke-width:0.264583"
+       x="68.013275"
+       y="33.261906"
+       id="text839"><tspan
+         sodipodi:role="line"
+         id="tspan837"
+         x="68.013275"
+         y="33.261906"
+         style="font-size:38.1px;text-align:center;text-anchor:middle;fill:#ef2929;stroke-width:0.264583">LOGO</tspan><tspan
+         sodipodi:role="line"
+         x="68.013275"
+         y="80.886902"
+         style="font-size:38.1px;text-align:center;text-anchor:middle;fill:#ef2929;stroke-width:0.264583"
+         id="tspan841">PLACE</tspan><tspan
+         sodipodi:role="line"
+         x="68.013275"
+         y="128.5119"
+         style="font-size:38.1px;text-align:center;text-anchor:middle;fill:#ef2929;stroke-width:0.264583"
+         id="tspan843">HOLDER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif Bold';display:inline;stroke-width:0.264583"
+       x="-0.75595349"
+       y="102.80953"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="-0.75595349"
+         y="102.80953"
+         style="font-size:101.6px;stroke-width:0.264583">🔑</tspan></text>
+  </g>
+</svg>
