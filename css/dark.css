@@ -1,5 +1,5 @@
 body { background-color: black; color: white }
-a:link { color: orange }
-a:hover { color: red }
-a:visited { color: purple }
-a:active { color: yellow }
+a:link { color: yellow }
+a:hover { color: orange }
+a:visited { color: blue }
+a:active { color: red }
